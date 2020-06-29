@@ -5,7 +5,7 @@ tambah line lagi
 master
 test2
 test3 + master + test4
-fungsi2 {
+fungsi1 {
 3
 4
 5
