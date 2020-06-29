@@ -10,6 +10,9 @@ fungsi1 {
 2
 3
 4
+tambah di test6
+coba lagi
+coba lagi
 5
 6
 7
