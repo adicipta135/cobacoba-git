@@ -4,5 +4,4 @@ test1
 tambah line lagi
 master
 test2
-master 
-test3 + master
+test3 + master + test4
